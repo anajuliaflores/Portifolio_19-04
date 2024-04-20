@@ -59,7 +59,7 @@ img#fotoAnajulia {
     border-radius: 50%;
     height: 150px;
     position: relative;
-    left: 50px;
+    left: 100px;
     top: 10px;
     border: 2px solid rgba(0, 0, 0, 0.527);
 
@@ -87,14 +87,7 @@ div#sobre {
         left: 55px;
         padding: 12px;
         text-align: center 
-        font-size:30px;
-        margin-top: 20px;
-        margin-bottom: 50px;
-        p{
-        margin-top: 20px;
-        margin-bottom: 30px;
-        text-align: start;
-        }
+    
     }
 }
 
@@ -122,7 +115,7 @@ div#box {
 
     .tecnologias {
         text-align: center;
-        margin-top: 100px;
+        margin-top: 30px;
         margin-bottom: 30px;
         font-size: 20px;
         li{
@@ -133,7 +126,7 @@ div#box {
 }
 .pontos{
     li{
-        margin-bottom: 30px;
+        margin-bottom: 15px;
         text-align: justify;}
 }
 @media screen and (max-width: 800px) {
